@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akash Jai Bhardwaj</h1>
 <h3 align="center">A passionate computer engineer from India</h3>
-<img align="right" alt="coding" width="400" src="![image](https://github.com/Akash-Bhardwaj10/Akash-Bhardwaj10/assets/109505604/e65a4e1b-d8b8-48de-8a73-974b73331966)
+<img align="right" alt="coding" width="400" src="![download](https://github.com/Akash-Bhardwaj10/Akash-Bhardwaj10/assets/109505604/cd7f9663-8e1f-472f-862a-4e3dea1fe862)
+
 ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-bhardwaj10&label=Profile%20views&color=0e75b6&style=flat" alt="akash-bhardwaj10" /> </p>
